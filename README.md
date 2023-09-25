@@ -53,7 +53,80 @@
 
 <br>
 <br>
+
+# ANALYSIS
+
+
+
+### 1. Average Price
+- Our model calculates the average price range for dining at different restaurants in Bangalore. This helps users plan their budget for a meal out.
+
+
+
+### 2. Popular Cuisine
+- We identify the most popular cuisines in Bangalore based on user reviews and restaurant data. This feature allows users to explore and discover new culinary experiences.
+
+
+
+### 3. Most Popular Restaurant
+- We highlight the top-rated and most popular restaurant in Bangalore. Users can trust this recommendation for an exceptional dining experience.
+
+
+
+### 4. Cuisine Details
+- For each restaurant, we provide information about the cuisine it serves. Users can easily find out which cuisines are available at their preferred dining spot.
+
+
+
+### 5. Popular Restaurants by Cuisine
+- Users can explore restaurants that serve their preferred cuisine. We recommend the best places to enjoy a specific type of food based on user preferences.
+
+
+
+### 6. Recommended Price
+- Our model suggests an appropriate price range for dining based on the user's input preferences. This ensures that users can find restaurants that match their budget.
+
+
+
+### 7. Recommended Location
+- We recommend dining locations in Bangalore based on the user's preferred location and cuisine. This feature helps users find restaurants that are conveniently situated.
+
+
+
+<br>
+
+# Conclusion
+
+- In our endeavor to enhance the dining experience in Bangalore, our Zomato recommendation model offers a valuable array of features.
+- Features include calculating average price ranges, identifying popular cuisines, showcasing top-rated restaurants, and providing cuisine details.
+- Our model equips users with essential information for a memorable meal outing.
+- Personalized recommendations for price range and location simplify finding the perfect dining spot aligned with user preferences.
+- Whether you're a local connoisseur of Bangalore's culinary scene or a visitor exploring its gastronomic delights, our model aims to be your trusted companion.
+
+
+<br>
+<br>
    
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Limitations
+   
+* Not enough data about users or items, making it difficult to give accurate recommendations.
+* Struggle with updates in real-time, like new user preferences or changing item availability.
+* Handle sensitive user data, so we need to prioritize privacy.
+* Not enough information about certain items, especially those that are not popular or niche.
+* Make recommendations more understandable and transparent.
+* Better ways to measure recommendation system performance.
+
+
+
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Challenges
+- Not enough data about users or items, making it difficult to give accurate recommendations.
+- Struggle with updates in real-time, like new user preferences or changing item availability.
+- Handle sensitive user data, so we need to prioritize privacy.
+- Not enough information about certain items, especially those that are not popular or niche.
+- Make recommendations more understandable and transparent.
+- Better ways to measure recommendation system performance.
+
+
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
 1  **Real-time Data Updates**: Implement a scheduled data scraping process to keep the MySQL database updated with the latest election data. This way, the dashboard in Power BI can reflect real-time insights, allowing users to stay up-to-date with the evolving political landscape.
